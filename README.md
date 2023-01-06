@@ -5,4 +5,5 @@
 
 ### Project launch
 
-- `cd django4-personal-portfolio` runserver 
+- `cd django4-personal-portfolio`
+- python manage.py `runsever`
